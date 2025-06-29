@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Raihan, a **Computer Science** student at the City College of New York.
+
+🔭 Currently, I am learning Next.js and working on various cybersecurity certificates.
+
+📫 [Connect](https://www.linkedin.com/in/raihannadeem/) with me.
 <!--
 **raihann1/raihann1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
