@@ -2,7 +2,7 @@
 
 I'm Raihan, a **Computer Science** student at the City College of New York.
 
-🔭 Currently, I am learning AI Essentials, Networking, and Cloud Computing through hands- learning labs.
+🔭 Currently, I am learning AI Essentials, Networking, and Cloud Computing through hands-on learning labs.
 
 Check out my projects:
 
